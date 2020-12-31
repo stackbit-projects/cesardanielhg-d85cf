@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Funcionalidades
 sections:
   - type: hero_section
     title: Features
